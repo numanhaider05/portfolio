@@ -15,7 +15,7 @@ import BigAir from "../src/assets/images/bigair.png";
 import Movement from "../src/assets/images/movement.png";
 import Marbles from "../src/assets/images/MarblesCBT.webp";
 import WrestletalkMagazine from "../src/assets/images/WrestletalkMagazine.webp";
-import GotOne from "../src/assets/images/GotOne.jpg";
+import GotOne from "../src/assets/images/GotOne.jpeg";
 import PublicaAssisstenza from "../src/assets/images/PubblicaAssistenzaCrevalcore.webp";
 import Chetibra from "../src/assets/images/Chetibra.webp";
 import MiniFarms from "../src/assets/images/Minifarms.webp"; // For CBT
@@ -432,7 +432,7 @@ const bigProjects = {
       projectName: " Marbles CBT",
       name: " Marbles CBT",
       projectDesc:
-        "Marbles CBT helps you learn and practice CBT therapy tools easily.",
+        "Marbles CBT is an easy-to-use app for learning and practicing tools from CBT therapy.",
       footerLink: [
         {
           name: "Google Playstore",
