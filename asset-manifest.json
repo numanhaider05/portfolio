@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d84caae0.css",
-    "main.js": "/portfolio/static/js/main.ed65a930.js",
+    "main.css": "/portfolio/static/css/main.ee32b9f3.css",
+    "main.js": "/portfolio/static/js/main.3f884d9d.js",
     "static/css/487.bb36206c.chunk.css": "/portfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.0152af61.chunk.js": "/portfolio/static/js/487.0152af61.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/portfolio/static/css/990.c6a7ee28.chunk.css",
-    "static/js/990.eb43032a.chunk.js": "/portfolio/static/js/990.eb43032a.chunk.js",
+    "static/js/990.37332836.chunk.js": "/portfolio/static/js/990.37332836.chunk.js",
     "static/media/stanfordLogo.png": "/portfolio/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
     "static/media/harvardLogo.png": "/portfolio/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
     "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -18,7 +18,6 @@
     "static/media/udda.png": "/portfolio/static/media/udda.9a4e66fabce7de997c8c.png",
     "static/media/socialtag.png": "/portfolio/static/media/socialtag.30d21d041610115124b0.png",
     "static/media/PubblicaAssistenzaCrevalcore.webp": "/portfolio/static/media/PubblicaAssistenzaCrevalcore.a47b4b64bf4b12631689.webp",
-    "static/media/GotOne.jpg": "/portfolio/static/media/GotOne.5aa0a18b20ed4a494adc.jpg",
     "static/media/Minifarms.webp": "/portfolio/static/media/Minifarms.5a5cb0a8b4b1ad3ea73e.webp",
     "static/media/bond.png": "/portfolio/static/media/bond.a9856a7e58051b736055.png",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -36,15 +35,15 @@
     "static/media/pwaLogo.webp": "/portfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "index.html": "/portfolio/index.html",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.d84caae0.css.map": "/portfolio/static/css/main.d84caae0.css.map",
-    "main.ed65a930.js.map": "/portfolio/static/js/main.ed65a930.js.map",
+    "main.ee32b9f3.css.map": "/portfolio/static/css/main.ee32b9f3.css.map",
+    "main.3f884d9d.js.map": "/portfolio/static/js/main.3f884d9d.js.map",
     "487.bb36206c.chunk.css.map": "/portfolio/static/css/487.bb36206c.chunk.css.map",
     "487.0152af61.chunk.js.map": "/portfolio/static/js/487.0152af61.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/portfolio/static/css/990.c6a7ee28.chunk.css.map",
-    "990.eb43032a.chunk.js.map": "/portfolio/static/js/990.eb43032a.chunk.js.map"
+    "990.37332836.chunk.js.map": "/portfolio/static/js/990.37332836.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d84caae0.css",
-    "static/js/main.ed65a930.js"
+    "static/css/main.ee32b9f3.css",
+    "static/js/main.3f884d9d.js"
   ]
 }
